@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D93EB11-79B6-4091-98BE-E807F5175BD0}|cinGetExam\\cinGetExam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\cinGetExam\\cinGetExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D93EB11-79B6-4091-98BE-E807F5175BD0}|cinGetExam\\cinGetExam.vcxproj|solutionrelative:cinGetExam\\cinGetExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED55DEF8-A8CD-43C1-B52D-1ACE9BCFFDB8}|250529Exam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\250529Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED55DEF8-A8CD-43C1-B52D-1ACE9BCFFDB8}|250529Exam.vcxproj|solutionrelative:250529Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 415,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cinGetExam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\cinGetExam\\cinGetExam.cpp",
+              "RelativeDocumentMoniker": "cinGetExam\\cinGetExam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\cinGetExam\\cinGetExam.cpp",
+              "RelativeToolTip": "cinGetExam\\cinGetExam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T01:03:40.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "250529Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\250529Exam.cpp",
+              "RelativeDocumentMoniker": "250529Exam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250529Exam\\250529Exam.cpp",
+              "RelativeToolTip": "250529Exam.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T00:52:49.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
