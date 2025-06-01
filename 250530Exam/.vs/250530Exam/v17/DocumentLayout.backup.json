@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B6EB6A-8B24-4AEF-9D6A-EBFC2E31F86E}|arrFunc4\\arrFunc4.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc4\\arrFunc4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45B6EB6A-8B24-4AEF-9D6A-EBFC2E31F86E}|arrFunc4\\arrFunc4.vcxproj|solutionrelative:arrFunc4\\arrFunc4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B748A3-6C27-4FBF-9001-067A7DD5D99F}|arrFunc3\\arrFunc3.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc3\\arrFunc3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16B748A3-6C27-4FBF-9001-067A7DD5D99F}|arrFunc3\\arrFunc3.vcxproj|solutionrelative:arrFunc3\\arrFunc3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0F48668-7936-478B-A4C7-908A446EDC5B}|arrFunc2\\arrFunc2.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc2\\arrFunc2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0F48668-7936-478B-A4C7-908A446EDC5B}|arrFunc2\\arrFunc2.vcxproj|solutionrelative:arrFunc2\\arrFunc2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A24D1-496D-4F74-ADF0-6B6AD209581C}|arrFunc1Exam\\arrFunc1Exam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc1Exam\\arrFunc1Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{393A24D1-496D-4F74-ADF0-6B6AD209581C}|arrFunc1Exam\\arrFunc1Exam.vcxproj|solutionrelative:arrFunc1Exam\\arrFunc1Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE07187D-D077-4F61-B2AF-82724A0027D2}|lottoExam\\lottoExam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\lottoExam\\lottoExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BE07187D-D077-4F61-B2AF-82724A0027D2}|lottoExam\\lottoExam.vcxproj|solutionrelative:lottoExam\\lottoExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0179B1AA-8A1F-475E-B35D-3518057DA3AB}|twoArguFuncExam\\twoArguFuncExam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\twoArguFuncExam\\twoArguFuncExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0179B1AA-8A1F-475E-B35D-3518057DA3AB}|twoArguFuncExam\\twoArguFuncExam.vcxproj|solutionrelative:twoArguFuncExam\\twoArguFuncExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58C0F412-69BC-40F9-934B-563AB12BECDC}|callingFuncExam\\callingFuncExam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\callingFuncExam\\callingFuncExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58C0F412-69BC-40F9-934B-563AB12BECDC}|callingFuncExam\\callingFuncExam.vcxproj|solutionrelative:callingFuncExam\\callingFuncExam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAF1F36-B3AA-4347-9246-F06EEF90E986}|250530Exam.vcxproj|C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\250530Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CAF1F36-B3AA-4347-9246-F06EEF90E986}|250530Exam.vcxproj|solutionrelative:250530Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 415,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrFunc4.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc4\\arrFunc4.cpp",
+              "RelativeDocumentMoniker": "arrFunc4\\arrFunc4.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc4\\arrFunc4.cpp",
+              "RelativeToolTip": "arrFunc4\\arrFunc4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T13:06:55.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "twoArguFuncExam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\twoArguFuncExam\\twoArguFuncExam.cpp",
+              "RelativeDocumentMoniker": "twoArguFuncExam\\twoArguFuncExam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\twoArguFuncExam\\twoArguFuncExam.cpp",
+              "RelativeToolTip": "twoArguFuncExam\\twoArguFuncExam.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "arrFunc3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc3\\arrFunc3.cpp",
+              "RelativeDocumentMoniker": "arrFunc3\\arrFunc3.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc3\\arrFunc3.cpp",
+              "RelativeToolTip": "arrFunc3\\arrFunc3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "arrFunc2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc2\\arrFunc2.cpp",
+              "RelativeDocumentMoniker": "arrFunc2\\arrFunc2.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc2\\arrFunc2.cpp",
+              "RelativeToolTip": "arrFunc2\\arrFunc2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arrFunc1Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc1Exam\\arrFunc1Exam.cpp",
+              "RelativeDocumentMoniker": "arrFunc1Exam\\arrFunc1Exam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\arrFunc1Exam\\arrFunc1Exam.cpp",
+              "RelativeToolTip": "arrFunc1Exam\\arrFunc1Exam.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lottoExam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\lottoExam\\lottoExam.cpp",
+              "RelativeDocumentMoniker": "lottoExam\\lottoExam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\lottoExam\\lottoExam.cpp",
+              "RelativeToolTip": "lottoExam\\lottoExam.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "callingFuncExam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\callingFuncExam\\callingFuncExam.cpp",
+              "RelativeDocumentMoniker": "callingFuncExam\\callingFuncExam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\callingFuncExam\\callingFuncExam.cpp",
+              "RelativeToolTip": "callingFuncExam\\callingFuncExam.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "250530Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\250530Exam.cpp",
+              "RelativeDocumentMoniker": "250530Exam.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CppExample\\250530Exam\\250530Exam.cpp",
+              "RelativeToolTip": "250530Exam.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T12:39:31.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
