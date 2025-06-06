@@ -1,0 +1,7 @@
+﻿  arrObjExam.cpp
+C:\Users\leeji\OneDrive\바탕 화면\CppExample\250606Exam\arrObjExam\arrObjExam.cpp(34,16): warning C4244: '+=': '_Ty'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\leeji\OneDrive\바탕 화면\CppExample\250606Exam\arrObjExam\arrObjExam.cpp(34,16): warning C4244:         with
+C:\Users\leeji\OneDrive\바탕 화면\CppExample\250606Exam\arrObjExam\arrObjExam.cpp(34,16): warning C4244:         [
+C:\Users\leeji\OneDrive\바탕 화면\CppExample\250606Exam\arrObjExam\arrObjExam.cpp(34,16): warning C4244:             _Ty=double
+C:\Users\leeji\OneDrive\바탕 화면\CppExample\250606Exam\arrObjExam\arrObjExam.cpp(34,16): warning C4244:         ]
+  arrObjExam.vcxproj -> C:\Users\leeji\OneDrive\바탕 화면\CppExample\250606Exam\x64\Debug\arrObjExam.exe
